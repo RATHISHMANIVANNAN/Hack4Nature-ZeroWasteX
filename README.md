@@ -24,6 +24,16 @@ ZeroWasteX is a futuristic waste management system designed to **automate waste 
    Waste is transformed into **eco-friendly, usable sub-products**, reducing landfill and carbon impact.
 
 ---
+## 📊 Smart Dashboard
+"Experience the full functionality of our project through the Smart Dashboard — a dynamic interface that offers an interactive demo for users to explore key features in real time."
+
+"The Smart Dashboard comes equipped with a live demo, allowing users to simulate operations and gain hands-on insight into how the system responds to various inputs and conditions."
+
+"This intelligent dashboard is not just for show — it includes a working demo that showcases our project's core modules in action, making it easy for anyone to test and understand the workflow."
+
+"Dive into the demo mode to visualize data pipelines, real-time updates, and alert mechanisms — all integrated into a sleek, user-friendly dashboard interface."
+
+"Curious about how it all works? Launch the built-in demo from the Smart Dashboard and watch the system come alive with interactive visuals and simulations."
 
 ## 🌍 Real-World Impact
 
@@ -39,7 +49,7 @@ ZeroWasteX is a futuristic waste management system designed to **automate waste 
 - **Computer Vision / Image Recognition** — OpenCV, TensorFlow/Keras
 - **Waste Scoring Algorithm** — Python-based scoring model
 - **Mechanical Simulation** — Conveyor + Layered Screening Design
-- **Dashboard (Upcoming)** — Real-time analytics and visualization
+- **Smart Visualization Dashboard** — Real-time analytics and visualization, also shows a demo on how it works
 
 ---
 
@@ -72,21 +82,17 @@ ZeroWasteX is a futuristic waste management system designed to **automate waste 
 
 ## 🧠 Team & Contributors
 
-| Name              | Role                          |
-|-------------------|-------------------------------|
-| [Your Name]        | Project Lead, AI Integration  |
-| [Teammate Name]    | CV Modeling & Scoring System |
-| [Teammate Name]    | Mechanical Design & Simulation |
-| [Teammate Name]    | UI/UX and Frontend           |
+| Name               | Role                                          |
+|------------------- |---------------------------------------------- |
+| Rathish Manivannan | Project Lead                                  |
+| U Pranov Shanker   | UI/UX and Frontend,presentation               |
+| Sibin Paulraj      | AI Model and research proof                   |
+| A M Selvaganesh    | Mechanical Design & Simulation,research proof |
 
 ---
 
-## 📬 Contact & Collaboration
-
-Want to collaborate, contribute, or pilot the project?  
-📧 Email: [yourname@email.com]  
-🌐 Portfolio: [your-website.com]  
-📸 Follow progress: [Instagram/LinkedIn/Twitter handle]
+## 📬 Collaboration
+Contributions are always welcome:)
 
 ---
 
