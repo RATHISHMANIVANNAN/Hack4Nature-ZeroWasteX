@@ -48,10 +48,8 @@ ZeroWasteX is a futuristic waste management system designed to **automate waste 
 
 ## 🧪 Tech Stack
 
-- **Computer Vision / Image Recognition** — OpenCV, TensorFlow/Keras
-- **Waste Scoring Algorithm** — Python-based scoring model
-- **Mechanical Simulation** — Conveyor + Layered Screening Design
-- **Smart Visualization Dashboard** — Real-time analytics and visualization, also shows a demo on how it works
+- Solidworks
+- Vue
 
 ---
 
