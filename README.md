@@ -25,15 +25,17 @@ ZeroWasteX is a futuristic waste management system designed to **automate waste 
 
 ---
 ## 📊 Smart Dashboard
-1. Experience the full functionality of our project through the Smart Dashboard — a dynamic interface that offers an interactive demo for users to explore key features in real time."
+1. Experience the full functionality of our project through the Smart Dashboard — a dynamic interface that offers an interactive demo for users to explore key features in real time.
 
-2. The Smart Dashboard comes equipped with a live demo, allowing users to simulate operations and gain hands-on insight into how the system responds to various inputs and conditions."
+2. The Smart Dashboard comes equipped with a live demo, allowing users to simulate operations and gain hands-on insight into how the system responds to various inputs and conditions.
 
-3. This intelligent dashboard is not just for show — it includes a working demo that showcases our project's core modules in action, making it easy for anyone to test and understand the workflow."
+3. This intelligent dashboard is not just for show — it includes a working demo that showcases our project's core modules in action, making it easy for anyone to test and understand the workflow.
 
-4. Dive into the demo mode to visualize data pipelines, real-time updates, and alert mechanisms — all integrated into a sleek, user-friendly dashboard interface."
+4. Dive into the demo mode to visualize data pipelines, real-time updates, and alert mechanisms — all integrated into a sleek, user-friendly dashboard interface.
 
-5. Curious about how it all works? Launch the built-in demo from the Smart Dashboard and watch the system come alive with interactive visuals and simulations."
+5. Curious about how it all works? Launch the built-in demo from the Smart Dashboard and watch the system come alive with interactive visuals and simulations.
+
+---
 
 ## 🌍 Real-World Impact
 
