@@ -26,7 +26,6 @@ ZeroWasteX is a futuristic waste management system designed to **automate waste 
 ---
 ## 📊 Smart Dashboard
 1. Experience the full functionality of our project through the Smart Dashboard — a dynamic interface that offers an interactive demo for users to explore key features in real time.
-   ![Smart Dashboard Demo](main/pic1.png)
 
 2. The Smart Dashboard comes equipped with a live demo, allowing users to simulate operations and gain hands-on insight into how the system responds to various inputs and conditions.
 
