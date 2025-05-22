@@ -36,6 +36,8 @@ ZeroWasteX is a futuristic waste management system designed to **automate waste 
 
 5. Curious about how it all works? Launch the built-in demo from the Smart Dashboard and watch the system come alive with interactive visuals and simulations.
 
+https://github.com/user-attachments/assets/4080d9de-4995-458a-942c-e0fe6f3eb29b
+
 ---
 
 ## 🌍 Real-World Impact
