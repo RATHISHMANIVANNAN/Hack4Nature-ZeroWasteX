@@ -38,6 +38,11 @@ ZeroWasteX is a futuristic waste management system designed to **automate waste 
 
 https://github.com/user-attachments/assets/4080d9de-4995-458a-942c-e0fe6f3eb29b
 
+---
+
+## Simple simulation using Solidworks
+
+https://github.com/user-attachments/assets/81d4a986-8c94-4016-a05e-fb6d64d9ee86
 
 ---
 
