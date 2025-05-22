@@ -59,7 +59,7 @@ https://github.com/user-attachments/assets/81d4a986-8c94-4016-a05e-fb6d64d9ee86
 
 - **Solidworks** for simulation.
 - **Vite**, **TypeScript**, **React**, **shadcn-ui** ,**Tailwind CSS** for frontend.
-- 
+  
 
 ---
 
