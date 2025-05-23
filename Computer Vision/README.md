@@ -7,8 +7,7 @@
 - **Vision Encoder:** Technical deep-dives and Google’s own documentation confirm Gemini employs a ViT-style encoder for images. This means images are processed not with old-school CNNs, but with a transformer that sees the *big picture*—literally!
 - **Multimodal Integration:** Gemini natively fuses text, images, audio, and video via cross-modal attention layers, enabling it to understand and reason across all forms of data.
 
-> There are four input modalities, text (encoded with Sentencepiece), images (ViT), video (multiple image frames), and audio (Universal Speech Model features @16kHz). … the vision encoder is probably a pre-trained SigLIP model, just like PaLI 3.
-
+> There are four input modalities, text (encoded with Sentencepiece), images (ViT), video (multiple image frames), and audio (Universal Speech Model features @16kHz).  
 
 
 ---
@@ -52,7 +51,7 @@ This code brings together the **power of Gemini’s Vision Transformer (ViT)** a
 
 ---
 
-## 🚦 How It Works (Code Explanation)
+## 🚦 How It Works
 
 - **OpenCV** captures frames from your webcam.
 - Each frame is converted to a PIL Image and sent to Gemini’s `gemini-2.0-flash` model.
