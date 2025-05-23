@@ -2,7 +2,7 @@
 
 ## 1. **Gemini’s Vision Transformer (ViT) Foundation**
 
-Gemini is not just another AI model—it’s a **multimodal powerhouse** built on the Transformer paradigm, leveraging the **Vision Transformer (ViT)** at its visual core. Here’s why this matters:
+- Gemini is not just another AI model—it’s a **multimodal powerhouse** built on the Transformer paradigm, leveraging the **Vision Transformer (ViT)** at its visual core. 
 
 - **Vision Encoder:** Technical deep-dives and Google’s own documentation confirm Gemini employs a ViT-style encoder for images. This means images are processed not with old-school CNNs, but with a transformer that sees the *big picture*—literally!
 - **Multimodal Integration:** Gemini natively fuses text, images, audio, and video via cross-modal attention layers, enabling it to understand and reason across all forms of data.
