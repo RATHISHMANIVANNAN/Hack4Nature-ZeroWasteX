@@ -46,6 +46,12 @@ https://github.com/user-attachments/assets/81d4a986-8c94-4016-a05e-fb6d64d9ee86
 
 ---
 
+## Computer Vision Demo
+
+https://github.com/user-attachments/assets/b42300be-4ad5-4faa-99b6-58d0ce1182d6
+
+---
+
 ## 🌍 Real-World Impact
 
 - ✅ **Reduces landfill waste & pollution**
