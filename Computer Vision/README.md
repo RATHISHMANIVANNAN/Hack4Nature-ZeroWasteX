@@ -1,5 +1,3 @@
----
-
 ## 1. **Gemini’s Vision Transformer (ViT) Foundation**
 
 - Gemini is not just another AI model—it is a multimodal powerhouse built on the Transformer paradigm, leveraging the **Vision Transformer (ViT)** at its visual core.
