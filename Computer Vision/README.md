@@ -71,8 +71,6 @@ This code brings together the **power of Gemini’s Vision Transformer (ViT)** a
 ## Output
 
 ![Output_1](output1.png)
-![Output_2](output2.png)
-
 ---
 
 
