@@ -18,6 +18,6 @@ The main objective is to enable machine learning models to automatically classif
   
 ## Intended Usage
 
-- **Benchmarking**: Compare and benchmark different classification algorithms for waste classsification and environmental image data.
+- **Benchmarking**: Compare and benchmark different classification algorithms for waste classification and environmental image data.
 
 
