@@ -55,7 +55,8 @@ Experience the Dashboard here:  https://waste-ai-genesis.lovable.app/
 ## 🧪 Tech Stack
 
 - **Solidworks** for Conveyer Belt Simulation
-- 
+- **Vite, TypeScript, React, shadcn-ui, Tailwind CSS** for Frontend
+- **Computer Vision** and **Gemini API** for building the model
 
 ---
 
