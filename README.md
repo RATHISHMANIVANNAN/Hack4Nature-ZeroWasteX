@@ -1,123 +1,73 @@
-# ♻️ ZeroWasteX — AI-Powered Smart Waste Segregation System
+# Welcome to your Lovable project
 
-ZeroWasteX is a futuristic waste management system designed to **automate waste segregation** using **Computer Vision (CV)** and **AI-based usefulness scoring**. By combining intelligent object detection, layered screening, and value-based redirection, it turns trash into **impactful end-products** — all while aligning with the **United Nations SDG goals**.
+## Project info
 
----
+**URL**: https://lovable.dev/projects/c0d9c495-fd72-4071-98de-fae48d0289b3
 
-## 🚀 How It Works
+## How can I edit this code?
 
-> A sample load of waste enters the machine. As it moves through a conveyor system, the process unfolds:
+There are several ways of editing your application.
 
-1. **🎥 Visual Analysis (Computer Vision)**  
-   A trained CV model identifies each waste item using real-time video feed.
+**Use Lovable**
 
-2. **🧠 Material Classification**  
-   Items are classified into categories like plastic, metal, organic, glass, etc.
+Simply visit the [Lovable Project](https://lovable.dev/projects/c0d9c495-fd72-4071-98de-fae48d0289b3) and start prompting.
 
-3. **📊 Usefulness Scoring**  
-   Each item is assigned a "usefulness percentage" based on repurposing potential (e.g., plastic → bricks, organic → enzymes).
+Changes made via Lovable will be committed automatically to this repo.
 
-4. **🔁 Layered Sorting Mechanism**  
-   A multi-level conveyor physically sorts items based on type and score.
+**Use your preferred IDE**
 
-5. **✨ Final Output**  
-   Waste is transformed into **eco-friendly, usable sub-products**, reducing landfill and carbon impact.
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
----
-## 📊 Smart Dashboard
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-1. Experience the full functionality of our project through the Smart Dashboard — a dynamic interface that offers an interactive demo for users to explore key features in real time.
+Follow these steps:
 
-2. The Smart Dashboard comes equipped with a live demo, allowing users to simulate operations and gain hands-on insight into how the system responds to various inputs and conditions.
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
 
-3. This intelligent dashboard is not just for show — it includes a working demo that showcases our project's core modules in action, making it easy for anyone to test and understand the workflow.
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
 
-4. Dive into the demo mode to visualize data pipelines, real-time updates, and alert mechanisms — all integrated into a sleek, user-friendly dashboard interface.
+# Step 3: Install the necessary dependencies.
+npm i
 
-5. Curious about how it all works? Launch the built-in demo from the Smart Dashboard and watch the system come alive with interactive visuals and simulations.
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
+```
 
-https://github.com/user-attachments/assets/4080d9de-4995-458a-942c-e0fe6f3eb29b
+**Edit a file directly in GitHub**
 
-Experience the website here: https://waste-ai-genesis.lovable.app/
+- Navigate to the desired file(s).
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Make your changes and commit the changes.
 
----
+**Use GitHub Codespaces**
 
-## Simple simulation using Solidworks
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
 
-https://github.com/user-attachments/assets/81d4a986-8c94-4016-a05e-fb6d64d9ee86
+## What technologies are used for this project?
 
----
+This project is built with:
 
-## Computer Vision Demo
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
 
-https://github.com/user-attachments/assets/b42300be-4ad5-4faa-99b6-58d0ce1182d6
+## How can I deploy this project?
 
----
+Simply open [Lovable](https://lovable.dev/projects/c0d9c495-fd72-4071-98de-fae48d0289b3) and click on Share -> Publish.
 
-## 🌍 Real-World Impact
+## Can I connect a custom domain to my Lovable project?
 
-- ✅ **Reduces landfill waste & pollution**
-- ✅ **Generates reusable products from trash**
-- ✅ **Automates segregation — 24/7 and scalable**
-- ✅ **Empowers circular economy & resource conservation**
+Yes, you can!
 
----
+To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-## 🧪 Tech Stack
-
-- **Solidworks** for simulation.
-- **Vite**, **TypeScript**, **React**, **shadcn-ui** ,**Tailwind CSS** for frontend.
-- **Computer Vision**, **Gemini-2.0.flash** for AI Classification
-
----
-
-## 🎯 SDG Goals Aligned
-
-- **Goal 11**: Sustainable Cities and Communities  
-- **Goal 12**: Responsible Consumption and Production  
-- **Goal 13**: Climate Action  
-- **Goal 9**: Industry, Innovation and Infrastructure  
-
----
-
-## 🔮 Future Scope
-
-- Mobile/home versions of waste scanners  
-- Blockchain for traceable waste lifecycle  
-- Smart dashboards for municipalities  
-- Plug-in with smart city IoT systems  
-
----
-
-## 💡 Innovations & Novelties
-
-- 🔄 Usefulness-based redirection system  
-- 🔍 CV-enabled real-time object classification  
-- 🧱 Conversion into high-impact products (e.g., plastic bricks, bioenzymes)  
-- 📈 Live waste analytics & pattern recognition  
-
----
-
-## 🧠 Team & Contributors
-
-| Name               | Role                                          |
-|------------------- |---------------------------------------------- |
-| Rathish Manivannan | Project Lead                                  |
-| U Pranov Shanker   | UI/UX and Frontend,presentation               |
-| Sibin Paulraj      | AI Model and research proof                   |
-| A M Selvaganesh    | Mechanical Design & Simulation,research proof |
-
----
-
-## 📬 Collaboration
-Contributions are always welcome:)
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-> _"Waste isn’t waste until we waste it. ZeroWasteX is our vision of turning trash into transformation."_  
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
