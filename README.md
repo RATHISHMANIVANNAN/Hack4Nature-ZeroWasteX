@@ -98,13 +98,9 @@ Experience the Dashboard here:  https://waste-ai-genesis.lovable.app/
 
 ---
 
-## 📬 Contact & Collaboration
+## 📬 Collaboration
 
-Want to collaborate, contribute, or pilot the project?  
-📧 Email: [yourname@email.com]  
-🌐 Portfolio: [your-website.com]  
-📸 Follow progress: [Instagram/LinkedIn/Twitter handle]
-
+Contributions are always accepted
 ---
 
 ## 📜 License
