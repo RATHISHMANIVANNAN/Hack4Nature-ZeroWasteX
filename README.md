@@ -39,6 +39,8 @@ ZeroWasteX is a futuristic waste management system designed to **automate waste 
 
 https://github.com/user-attachments/assets/3668af79-b47a-4c9f-8ef7-5d4f8b68f942
 
+Experience the Dashboard here:  https://waste-ai-genesis.lovable.app/
+
 ---
 
 ## 🌍 Real-World Impact
