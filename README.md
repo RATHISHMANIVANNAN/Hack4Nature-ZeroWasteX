@@ -42,6 +42,11 @@ https://github.com/user-attachments/assets/3668af79-b47a-4c9f-8ef7-5d4f8b68f942
 Experience the Dashboard here:  https://waste-ai-genesis.lovable.app/
 
 ---
+## ⚙️ Conveyer Belt Simulation using Solidworks
+
+https://github.com/user-attachments/assets/0885d080-040e-4b33-a93f-dde8178c19f6
+
+---
 
 ## 🌍 Real-World Impact
 
